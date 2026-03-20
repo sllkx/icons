@@ -1,50 +1,79 @@
-# Icon Collection
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/sllkx/icons@main/logo/ollone512.png" alt="OLLONE Logo" width="120" />
 
-A curated collection of icons gathered from various sources.
+  # OLLONE
+  **The Only PC Utility You'll Ever Need.**
 
-This repository does **not** contain original icons created by the author.  
-It is a **collection of icons** organized for convenience and easy access.
+  [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue?logo=windows&logoColor=white)](#)
+  [![License](https://img.shields.io/badge/License-Freeware-green.svg)](#)
+  [![Website](https://img.shields.io/badge/Website-OLLONE-black?logo=google-chrome&logoColor=white)](https://spirit-browser.isai.kr/ollone/)
+</div>
 
-## About
+<br />
 
-This project is an icon **collection**, not an original icon pack.
+## 👋 Hey there! What is OLLONE?
 
-- Icons are collected from multiple public or open sources
-- Ownership and copyrights belong to their respective creators
-- This repository simply organizes and redistributes the icons
+I don't know about you, but I was tired of cluttering my PC with five different clunky programs just to do basic everyday tasks. Why download a separate video player, an audio player, a heavy image viewer, a text editor, and two different archiving tools? 
 
-## Contents
+That's why I built **OLLONE**. 
 
-- UI & system icons
-- Web & app icons
-- General-purpose symbols
-- Multiple styles and formats (depending on source)
+OLLONE is a lightning-fast, all-in-one utility that bundles the 5 most essential tools you need for your Windows PC into one sleek, lightweight package. It's completely free, has zero ads, and respects your system resources.
 
-## Usage
+<br />
 
-Before using any icon, **please check the original license** of each icon set.
+## ✨ Features & Supported Formats
 
-Some icons may:
-- Allow commercial use
-- Require attribution
-- Be restricted to non-commercial use only
+I focused purely on speed, simplicity, and ultimate compatibility. Here is what OLLONE can do out of the box:
 
-## Attribution
+- 🎬 **Media Player**
+  - Plays almost any video and audio format natively without making you hunt down codecs.
+  - Easily handles crisp 4K playback and lossless audio without breaking a sweat.
+  - **Supported Formats:** `mp4` `mkv` `avi` `webm` `mp3` `flac` `wav`
+  
+- 🖼️ **Image Viewer**
+  - Opens massive, high-resolution photo folders instantly. 
+  - **Supported Formats:** `png` `jpg` `jpeg` `gif` `bmp`
+  
+- 📝 **Text & Code Editor**
+  - A super snappy notepad alternative. 
+  - Perfect for jotting down quick thoughts, inspecting logs, or editing a few lines of code without firing up a heavy IDE.
+  - **Supported Formats:** `txt` `js` `php` `json` `html` `css` `md`
+  
+- 🗜️ **Archive Manager (Compress & Extract)**
+  - Save disk space by packing up your files with an efficient compression engine, or extract downloaded files in a blink via Drag & Drop.
+  - **Supported Formats:** `zip` `7z` `rar` (Extract only) `tar` `gz`
 
-If an icon requires attribution, please credit the original author or source  
-according to its license terms.
+<br />
 
-If you are the owner of any icon and wish it to be removed,  
-please open an issue and it will be taken down promptly.
+## 🚀 Getting Started
 
-## Disclaimer
+OLLONE is currently optimized for modern Windows environments.
 
-This repository is provided for **reference and convenience only**.  
-The maintainer does not claim ownership of any icons in this collection.
+- **OS:** Windows 10 / 11 (64-bit)
+- 📥 **[Download the latest version here](https://spirit-browser.isai.kr/ollone/)**
 
-## License
+<br />
 
-No single license applies to this repository.
+## 💻 About the Landing Page (This Repo)
 
-Each icon is licensed under its **original license**.  
-Refer to the source or accompanying license files for details.
+If you're poking around this repository, you'll see the source code for the official OLLONE landing page. I wanted the site to feel as premium and fluid as the app itself. 
+
+Here is the tech stack powering the website:
+- **Frontend:** HTML5, TailwindCSS (with a premium white glassmorphism design), and Alpine.js.
+- **3D Magic:** Three.js. (Check out the liquid crystal morphing blob! It uses organic math functions instead of rigid geometry to represent everything "melting" into one tool).
+- **Localization:** A little PHP script that uses Cloudflare's `HTTP_CF_IPCOUNTRY` header to automatically serve the site in English, Korean, Japanese, Hindi, or Spanish based on where you're visiting from.
+
+<br />
+
+## 🤝 Let's Make It Better
+
+OLLONE is built for the community. If you stumble upon a bug, have a cool feature idea, or just want to say hi, please feel free to open an **[Issue](https://github.com/your-username/OLLONE/issues)** or submit a Pull Request. I read every single one.
+
+Enjoy your newly decluttered PC! ✌️
+
+<br />
+
+---
+<div align="center">
+  <p>&copy; 2026 OLLONE. All rights reserved.</p>
+</div>
